@@ -1,4 +1,4 @@
-module github.com/libsv/go-bk
+module github.com/ejfhp/go-bk
 
 go 1.16
 
